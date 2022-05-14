@@ -1,5 +1,3 @@
-// Author: Jay Bhagvanbhai Sonani (B00891984)
-
 import './styles/DonationForm.css';
 import { useState } from 'react';
 import { Form, Button } from 'react-bootstrap';
