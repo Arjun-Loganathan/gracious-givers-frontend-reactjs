@@ -1,4 +1,4 @@
-// Author: Jay Bhagvanbhai Sonani (B00891984)
+
 
 import './styles/DonationCard.css';
 
