@@ -1,5 +1,3 @@
-// Author: Jay Bhagvanbhai Sonani (B00891984)
-
 import Footer from "../navbar/Footer";
 import Header from "../navbar/Header";
 import './styles/PaymentSuccess.css';
