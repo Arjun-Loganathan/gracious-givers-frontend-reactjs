@@ -1,5 +1,3 @@
-// Author: Jay Bhagvanbhai Sonani (B00891984)
-
 import './styles/NoEventsFound.css';
 
 const NoEventsFound = () => {
